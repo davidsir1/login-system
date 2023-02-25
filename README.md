@@ -2,6 +2,9 @@
 
 Project made in C++ with wxWidgets GUI.
 
+## Prerequisites
+- wxWidgets 3.2+
+
 ## Build and Run
 
 ```shell
