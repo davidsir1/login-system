@@ -1,9 +1,10 @@
 # login-system
 
-Project made in C++ with wxWidgets GUI.
+A simple program with a system login and register made in wxWidgets and C++.
 
 ## Prerequisites
 - wxWidgets 3.2+
+- GTK 3.0
 
 ## Build and Run
 
